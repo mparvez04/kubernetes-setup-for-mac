@@ -1,5 +1,5 @@
-# onprem-kubernetes-setup
-step by step setup for onprem kubernetes cluster in a secure enviroment
+# kubernetes-setup-for-mac
+step by step setup for kubernetes cluster in mac book for cluster testing.
 
 ## Install Multipass
 run this command:

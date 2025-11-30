@@ -43,6 +43,8 @@ run this below command to install iterm2:
 
 [Setup Kubernetes Cluster](kubernetes/README.md)
 
+## Delete VMs after cluster testing
+
 ⚠️ run the below script to delete VMs:
 
 ```

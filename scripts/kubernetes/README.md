@@ -203,3 +203,8 @@ kubectl get nodes --kubeconfig admin.kubeconfig
 ```
 # sudo apt install cri-tools
 ```
+
+## Install Metrics Server - Monitoring Cluster Components
+```
+# kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
+```
